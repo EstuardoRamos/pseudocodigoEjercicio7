@@ -1,5 +1,7 @@
 Algoritmo pseudocodigoEjercicio7
+	Definir porPar, porNul, porImp Como Real
 	Para i=1 Hasta 15 
+		Definir parre, imp Como Real;
 		num= Aleatorio(0,36);
 		Escribir num;
 		si num =0 Entonces
