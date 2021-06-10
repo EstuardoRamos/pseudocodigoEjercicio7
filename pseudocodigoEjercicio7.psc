@@ -8,9 +8,9 @@ Algoritmo pseudocodigoEjercicio7
 			nul=nul+1
 		SiNo
 			Si num mod 2=0 Entonces
-			pare=pare+1;
-		SiNo
-			imp= imp+1;
+				pare=pare+1;
+			SiNo
+				imp= imp+1;
 			FinSi
 		FinSi
 	FinPara
